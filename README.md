@@ -25,10 +25,14 @@
 <br><br>
 
 # 기술 스택
-- 프론트엔드 : HTML, CSS, JavaScript, AJAX, JQuery, JSTL
-- 백엔드 : Java 11, JSP, Spring MVC, Tiles(프레임워크), MyBatis, Spring JDBC
-- Datebase : Oracle
-- 기타 : Tomcat 9.0, Git, GitHub, kakao map API
+프론트엔드 HTML, CSS, JavaScript, AJAX, jQuery, Thymeleaf, JSON
+
+백엔드 Java 17, Spring Boot, Spring MVC(내장), Spring Security,
+Spring Data JPA, Bean Validation, Lombok, Spring Web
+
+데이터베이스 Oracle, Hibernate(JPA)
+
+서버 및 도구 Embedded Tomcat 9.0, Git, GitHub, Kakao Map API
 <br><br>
 
 # 주요 기능
@@ -87,7 +91,7 @@
 
 3. 서버 설정 - 포트번호 1602
 
-4. DB 설정 - 접속 이름 : MBC / 패스워드 : 1234 / 호스트이름 : localhost / 포트 : 1521 / SID : xe
+4. DB 설정 - 접속 이름 : MBC / 패스워드 : 1234 / 호스트이름 : localhost / 포트 : 1602 / SID : xe
 
 <br><br>
 # SQL 스크립트
@@ -109,4 +113,3 @@
 
 
 # 첨부 파일
-
