@@ -35,7 +35,8 @@ Spring Data JPA, Bean Validation, Lombok, Spring Web
 ### 데이터베이스 
 Oracle, Hibernate(JPA)
 
-서버 및 도구 Embedded Tomcat 9.0, Git, GitHub, Kakao Map API
+### 서버 및 도구 
+Embedded Tomcat 9.0, Git, GitHub, Kakao Map API
 <br><br>
 
 # 주요 기능
