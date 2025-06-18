@@ -112,8 +112,8 @@ Embedded Tomcat 9.0, Git, GitHub, Kakao Map API
 <br><br>
 
 # 회고 및 느낀점
-- MVC 패턴을 실제로 적용해보며 이해도가 높아짐
-- Git 협업 경험이 생김
+- 
+- 
 
 
 # 첨부 파일
