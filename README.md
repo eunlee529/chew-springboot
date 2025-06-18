@@ -25,14 +25,14 @@
 <br><br>
 
 # 기술 스택
-## 프론트엔드
+### 프론트엔드
 HTML, CSS, JavaScript, AJAX, jQuery, Thymeleaf, JSON
 
-## 백엔드 
+### 백엔드 
 Java 17, Spring Boot, Spring MVC(내장), Spring Security,
 Spring Data JPA, Bean Validation, Lombok, Spring Web
 
-## 데이터베이스 
+### 데이터베이스 
 Oracle, Hibernate(JPA)
 
 서버 및 도구 Embedded Tomcat 9.0, Git, GitHub, Kakao Map API
