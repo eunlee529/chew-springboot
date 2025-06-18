@@ -44,7 +44,7 @@ Embedded Tomcat 9.0, Git, GitHub, Kakao Map API
 - 날짜 및 시간 선택 후 예약
 - 사용자 로그인 및 마이페이지(회원정보 수정, 내가 쓴 리뷰, 예약 보기)
 - FAQ 등록 및 비밀글 쓰기
-- 관리자 페이지(매장 관리, 회원관리, 예약 관리 등)
+- 관리자 페이지(매장 관리, 회원관리, 리뷰관리, 예약 관리 등)
 <br><br>
 ## ERD Diagram
 ![erd](https://github.com/user-attachments/assets/95b19d95-2d86-4a72-9988-31510382982c)
@@ -112,8 +112,8 @@ Embedded Tomcat 9.0, Git, GitHub, Kakao Map API
 <br><br>
 
 # 회고 및 느낀점
-- 
-- 
+- Spring Boot를 활용하면서 설정과 배포가 간편해져 개발 생산성이 크게 향상되었고, 비즈니스 로직 구현에 집중할 수 있었다.
+- 자동 설정의 편리함 속에서도 내부 동작 원리에 대한 이해의 중요성을 절실히 느낀 값진 경험이었다.
 
 
 # 첨부 파일
